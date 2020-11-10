@@ -1,0 +1,29 @@
+{
+  "name": "uniwrapper",
+  "version": "0.0.1",
+  "description": "Wrapper 'universal' para la mayoría de APIs que existen. (faltan muchas por agregar)",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anventech/uniwrapper.git"
+  },
+  "keywords": [
+    "uni",
+    "wrapper",
+    "api",
+    "javascript",
+    "uniwrapper"
+  ],
+  "author": "anventech",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anventech/uniwrapper/issues"
+  },
+  "homepage": "https://github.com/anventech/uniwrapper#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
