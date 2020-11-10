@@ -1,0 +1,24 @@
+{
+    "env": {
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "extends": ["eslint:recommended"], 
+    "parserOptions": {
+        "ecmaVersion": 2019
+    },
+    "rules": {
+        "semi": ["off", "always"],
+        "quotes": ["off", "double"],
+        "no-unused-vars": ["off"],
+        "no-void": ["error"],
+        "comma-spacing": ["warn"],
+        "no-extra-semi": ["warn"],
+        "require-await": ["warn"],
+        "no-undefined": ["warn"],
+        "no-const-assign": ["error"],
+        "no-var": ["warn"],
+        "no-useless-escape": ["warn"]
+    }
+}
