@@ -4,7 +4,7 @@ UniWrapper es un wrapper "universal" para la mayoría de APIs que existen. (toda
 
 ## APIs disponibles:
 
-[<uniwrapper>.quotes.programmingQuotesAPI()](###programmingQuotesAPI()) - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api)
+[uniwrapper.quotes.programmingQuotesAPI()](###programmingQuotesAPI()) - [skolakoda/programming-quotes-api](https://github.com/skolakoda/programming-quotes-api)
 
 ## Uso de los wrappers:
 
